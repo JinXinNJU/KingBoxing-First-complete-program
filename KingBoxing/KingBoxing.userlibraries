@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="KingBoxing">
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/tritonus_share.jar" />
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/jl1.0.jar" />
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/jorbis-0.0.17.jar" />
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/mp3spi1.9.5.jar" />
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/tritonus_jorbis-0.3.6.jar" />
+  </library>
+  <library name="KingBoxing">
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/tritonus_share.jar" />
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/jl1.0.jar" />
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/jorbis-0.0.17.jar" />
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/mp3spi1.9.5.jar" />
+    <archive path="E:/EL大赛/KingBoxing/KingBoxing/tritonus_jorbis-0.3.6.jar" />
+  </library>
+</eclipse-userlibraries>
+

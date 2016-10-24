@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="King">
+    <output-path>D:/</output-path>
+    <root id="archive" name="King.jar" />
+  </artifact>
+</component>

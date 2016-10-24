@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KingBoxing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KingBoxing_jar</output-path>
+    <root id="archive" name="KingBoxing.jar">
+      <element id="module-output" name="KingBoxing" />
+    </root>
+  </artifact>
+</component>

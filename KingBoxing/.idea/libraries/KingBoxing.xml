@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="KingBoxing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tritonus_share.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jl1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jorbis-0.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tritonus_jorbis-0.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
